@@ -1,0 +1,12 @@
+alkana
+emoji
+googletrans==4.0.0rc1
+keyboard
+mecab-python3
+openai
+pandas
+PyAudio
+pytchat
+requests
+torch
+unidic

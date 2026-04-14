@@ -1,0 +1,12 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "Samuel said Introduce."
+        },
+        {
+            "role": "assistant",
+            "content": "sorry, there something error with my brain..."
+        }
+    ]
+}
